@@ -17,6 +17,7 @@
 
 ![Unit Tests](https://github.com/PorfirioTramontana/TemplatePOO2026/actions/workflows/pipeline.yaml/badge.svg)
 
+
 > **Important:** After forking this repository, you **must** edit this `README.md` file. Replace all instances of `Redy1908_Applicativo` in the above links with  `YourGithHubUsername_Applicativo`. Once you have done this, and followed the setup instructions below, you can delete this note and the instructions.
 
 ---
