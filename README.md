@@ -2,7 +2,8 @@
 [![SonarQube Cloud](https://sonarcloud.io/images/project_badges/sonarcloud-highlight.svg)](https://sonarcloud.io/summary/new_code?id=OOP2026_PrimoGruppoOOP2026 )
 
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=OOP2026_PrimoGruppoOOP2026&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=OOP2026_PrimoGruppoOOP2026)
-[Bugs](https://sonarcloud.io/api/project_badges/measure?project=OOP2026_PrimoGruppoOOP2026&metric=bugs)
+
+[Bugs]https://sonarcloud.io/api/project_badges/measure?project=OOP2026_PrimoGruppoOOP2026&metric=bugs
 [Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=OOP2026_PrimoGruppoOOP2026&metric=vulnerabilities)
 [Code Smells](https://sonarcloud.io/api/project_badges/measure?project=OOP2026_PrimoGruppoOOP2026&metric=code_smells)
 [Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=OOP2026_PrimoGruppoOOP2026&metric=reliability_rating)
