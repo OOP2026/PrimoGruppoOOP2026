@@ -1,5 +1,5 @@
 # Progetto ST: pipeline di analisi del codice
-[![SonarQube Cloud](https://sonarcloud.io/images/project_badges/sonarcloud-highlight.svg)](https://sonarcloud.io/summary/new_code?id=PorfirioTramontana_PrimoGruppoOOP2026)
+[![SonarQube Cloud](https://sonarcloud.io/images/project_badges/sonarcloud-highlight.svg)](https://sonarcloud.io/summary/new_code?id=OOP2026_PrimoGruppoOOP2026)
 
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=OOP2026_PrimoGruppoOOP2026&metric=alert_status)](https://sonarcloud.io/project/configuration?id=OOP2026_PrimoGruppoOOP2026)
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=OOP2026_PrimoGruppoOOP2026&metric=bugs)](https://sonarcloud.io/project/configuration?id=OOP2026_PrimoGruppoOOP2026)
